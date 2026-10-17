@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 587de715a461b334098ea0b1c42d1b88, type: 3}
-  m_Name: NewCharacter
+  m_Name: Baabos
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  Id: 
-  Name: 
-  Rarity: 0
-  Image: {fileID: 0}
-  CoinsPerSecond: 0
+  Id: 7
+  Name: Baabos
+  Rarity: 1
+  Image: {fileID: 4282682893065550165, guid: d9af74ef828459f438fb5208b5285fa2, type: 3}
+  CoinsPerSecond: 66

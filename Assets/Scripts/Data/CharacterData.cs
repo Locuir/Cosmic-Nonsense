@@ -10,6 +10,8 @@ public enum CharacterRarity
     Rare,
     Epic,
     Legendary,
+    Ultimate,
+
 }
 
 
@@ -19,7 +21,7 @@ public enum CharacterRarity
 
 public class CharacterData : ScriptableObject
 {
-    public string Id;
+    public int Id;
     public string Name;
     public CharacterRarity Rarity;
     public Sprite Image;

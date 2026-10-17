@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587de715a461b334098ea0b1c42d1b88, type: 3}
+  m_Name: Hozafleeq
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  Id: 13
+  Name: Hozafleeq
+  Rarity: 4
+  Image: {fileID: -8133437930755635455, guid: 5701aaa194cb9a34a9c9a7c47534af9b, type: 3}
+  CoinsPerSecond: 200
